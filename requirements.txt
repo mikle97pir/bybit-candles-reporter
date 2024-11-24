@@ -1,0 +1,6 @@
+pybit
+tqdm
+mplfinance
+pandas
+python-telegram-bot
+python-dotenv
